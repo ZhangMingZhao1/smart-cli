@@ -1,12 +1,12 @@
 {
   "list": [
     {
-      "name": "mieotpl-egg-mongoo-ts",
-      "remote": "https://github.com/seymoe/mieotpl-egg-mongoo-ts.git"
+      "name": "react-ts-pc-start",
+      "remote": "https://github.com/jd-smart-fe/react-ts-pc-start.git"
     },
     {
-      "name": "mieotpl-react-antd-ts",
-      "remote": "https://github.com/seymoe/mieotpl-react-antd-ts.git"
+      "name": "react-ts-mobile-start",
+      "remote": "https://github.com/jd-smart-fe/react-ts-mobile-start.git"
     }
   ]
 }

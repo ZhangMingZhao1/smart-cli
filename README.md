@@ -18,4 +18,4 @@ smart-cli init quick_demo
 # Template List
 
 + [react-ts-pc-start](https://github.com/jd-smart-fe/react-ts-pc-start) A Template based on react, typecript, antd
-+ [react-ts-mobile-start](https://github.com/jd-smart-fe/react-ts-mobile-start.git) A Template based on react, typecript, antd-mobile
++ [react-ts-mobile-start](https://github.com/jd-smart-fe/react-ts-mobile-start) A Template based on react, typecript, antd-mobile
