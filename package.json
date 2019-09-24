@@ -1,0 +1,36 @@
+{
+  "name": "smart-cli",
+  "version": "0.0.1",
+  "description": "A simple, fast, and universality template-download command line tools.",
+  "main": "index.js",
+  "bin": {
+    "smart-cli": "./bin/smart-cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangMingZhao1/smart-cli.git"
+  },
+  "keywords": [
+    "smart",
+    "cli"
+  ],
+  "author": "ZhangMingZhao1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhangMingZhao1/smart-cli/issues"
+  },
+  "homepage": "https://github.com/ZhangMingZhao1/smart-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.1",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+    "log-symbols": "^3.0.0",
+    "mkdirp": "^0.5.1",
+    "ora": "^4.0.1",
+    "osenv": "^0.1.5"
+  }
+}
