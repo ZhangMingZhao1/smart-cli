@@ -5,7 +5,7 @@ A simple, fast, and universality template-download command line tools.
 # Usage
 
 ```
-npm install -g smart-cli
+npm install -g smartfe-cli
 smart-cli -h
 ```
 
@@ -29,3 +29,6 @@ npm link
 # Tip
 
 本地会在unix的~/.smart-cli创建缓存文件夹，下载过的模板会保存在这里，如果云端模板和本地模板版本一致，会直接从缓存中拷贝模板到当前目录，如果版本不一致，会重新拉取云端最新模板到当前目录，并把当前新版本模板保存在缓存文件夹中。
+
+# hint
+注意本包在npm上的包名叫smartfe-cli，但命令是smart-cli，因为smart-cli在npm上已被占用。
