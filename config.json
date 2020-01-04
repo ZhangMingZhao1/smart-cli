@@ -7,6 +7,10 @@
     {
       "name": "react-ts-mobile-start",
       "remote": "https://github.com/jd-smart-fe/react-ts-mobile-start.git"
+    },
+    {
+      "name": "react-light-template",
+      "remote": "https://github.com/ZhangMingZhao1/react-light-template.git"
     }
   ]
 }
