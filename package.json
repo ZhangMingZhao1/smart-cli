@@ -1,6 +1,6 @@
 {
   "name": "smartfe-cli",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A simple, fast, and universality template-download command line tools.",
   "main": "index.js",
   "bin": {
