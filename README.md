@@ -25,6 +25,7 @@ npm link
 
 + [react-ts-pc-start](https://github.com/jd-smart-fe/react-ts-pc-start) A Template based on react, typecript, antd
 + [react-ts-mobile-start](https://github.com/jd-smart-fe/react-ts-mobile-start) A Template based on react, typecript, antd-mobile
++ [react-light-template](https://github.com/jd-smart-fe/react-ts-mobile-start) 测试代码专用板子，轻量
 
 # Tip
 
